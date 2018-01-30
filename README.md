@@ -1,10 +1,10 @@
 # test-react-readuxx
 to run the project
-in project folder
-npm i
+in project folder:
+npm i,
 npm start
 
-to run tests
+to run tests:
 npm test
 
 implemented features
