@@ -8,9 +8,9 @@ to run tests
 npm test
 
 implemented features
-- search for Git hub use by name, exampne john, bill, cheapRoc,technomancy
-- showing information for current user
-- showing additional info about user, numers of repos and folowers
+- search for Git hub users by name, exampne john, bill, cheapRoc,technomancy
+- showing information about current user
+- showing additional info about user, numbers of repos and followers
 - writing simple tests for main component action and reducer
 
 Technologies: React, Redux, CSS(with out preprocessors), materila elements and layouts.
